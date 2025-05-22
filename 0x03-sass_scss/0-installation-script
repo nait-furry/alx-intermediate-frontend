@@ -1,0 +1,5 @@
+# Since I already had node installed, I proceeded to installing SASS 
+# in the WSL terminal "npm install sass -v 3.7.4"
+## ┌──(lenovo㉿NAITFURRY)-[/mnt/x/GITHUBBING]
+   └─$ npm install sass -v 3.7.4
+    9.2.0
