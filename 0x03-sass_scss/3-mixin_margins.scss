@@ -1,0 +1,13 @@
+@mixin margin-x($value) {
+  margin-left: $value;
+  margin-right: $value;
+}
+
+body {
+  @include margin-x(10px);
+}
+
+div {
+  @include margin-x(15px);
+}
+
